@@ -1,0 +1,1 @@
+{"version":3,"sources":["Todo.ts"],"names":[],"mappings":";;AACA;IAAA;IAGA,CAAC;IAAD,WAAC;AAAD,CAHA,AAGC,IAAA;AAHY,oBAAI","file":"Todo.js","sourcesContent":["\r\nexport class Todo{\r\n    name:string;\r\n    isCompleted:boolean;\r\n}"]}
